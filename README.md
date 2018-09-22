@@ -1,2 +1,4 @@
 # ELON
-The Final project from my high school comp-sci class, done in a team of 3
+A multi-month 3-man high school capstone project, utilizing Unity3D & C# to create a full top-down 2D shooter, complete with handmade art assets and sound.
+# # Opening the Files
+Due to the...er...unfortunate size of the files, they've all been individually 'rared and placed here. In order to open them as a Unity Project, you simply extract the contained files into folders of the same name.
